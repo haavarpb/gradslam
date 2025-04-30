@@ -1,10 +1,10 @@
 torch>=1.6.0
-chamferdist==1.0.0
+chamferdist
 imageio
 kornia
 natsort
 numpy
 plotly>=4.10
 pyyaml
-open3d==0.10.0.0
+open3d
 opencv-python-headless
